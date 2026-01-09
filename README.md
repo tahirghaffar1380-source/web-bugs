@@ -1,7 +1,7 @@
 web-bugs
 ========
 
-A repo used by the Web Compatibility community to track issues reported via [webcompat.com](http://webcompat.com)
+A repo used by the Web Compatibility community to track issues reported via [webcompat.com](https://webcompat.com)
 
 ![Screenshot of webcompat.com](screenie.png)
 
@@ -46,7 +46,7 @@ If you’re using Webcompat.com already, you’re probably pretty awesome. So wh
 - If you feel comfortable dig in and analyze the bug as well
 
 #### Analyzing web compatibility bugs
-- Confirm that you can reproduce the error. Ideally you should use a clean browser profile. See [this tutorial for Firefox](http://www.otsukare.info/2014/11/12/configure-webcompat-browser).
+- Confirm that you can reproduce the error. Ideally you should use a clean browser profile. See [this tutorial for Firefox](https://www.otsukare.info/2014/11/12/configure-webcompat-browser).
 - Set any related labels - if the bug appears on Chrome for Android, set the “browser-chrome” and “os-android” labels
 - Provide details on which piece of code is broken
 - List out any relevant error codes
